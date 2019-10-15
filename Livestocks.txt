@@ -6,4 +6,7 @@ cow
 chicken
 Goat
 
+Fish
+Pig
+
 Thank you :)

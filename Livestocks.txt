@@ -4,3 +4,4 @@ Welcome to all livestocks
 
 cow
 chicken
+Goat
